@@ -8,6 +8,8 @@ div{
 
 .container{
     width:920px;
+    margin-left: auto;
+    margin-right: auto; 
 
 }
 
