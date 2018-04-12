@@ -1,0 +1,86 @@
+.container {
+    width:920px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+    
+}
+
+.header {
+    background-color: #ffb7aa;
+    height: 50px;
+    width:100%;
+}
+
+.wave {
+    height: 50px;
+    width: 70px;
+    margin-left: 50px;
+    
+}
+
+.banner {
+    background-color: #ffe2a9;
+    height: 150px;
+    width: 100%;
+}
+
+
+.headerimage{
+    height: 80px;
+    width: 400px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 10px solid white;
+}
+
+.h1 {
+   text-align: left;
+    font-size: 40px;
+    color: white;
+    float: left;
+    font-family: 'Indie Flower', cursive;
+    margin-left: 30px;
+    padding-top: 50px;
+
+}
+
+
+.h1sub {
+    font-family: 'Indie Flower', cursive;
+    color: #ffb7aa; 
+    padding-top: 90px;
+    font-size: 20px;
+}
+
+.body {
+    background-color: #fff3e1;
+    height: 100%;
+    width: 100%;
+}
+
+.nav {
+    background-color: #ffe2a9;
+    width: 200px;
+    height: 720px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+}
+
+.lighthouse {
+    width: 150px;
+    margin-left: 21px;
+    margin-top: 20px;
+    border: 5px solid white;
+}
+
+
+
+
+
+
+
