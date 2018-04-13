@@ -1,3 +1,5 @@
+
+
 .container {
     width:920px;
     margin-left: auto;
@@ -66,8 +68,8 @@
     width: 200px;
     height: 720px;
     float: left;
-    margin-top: 40px;
     margin-left: 40px;
+    margin-top: 40px;
     
 }
 
@@ -77,6 +79,247 @@
     margin-top: 20px;
     border: 5px solid white;
 }
+
+
+.links {
+    
+  margin-top: 40px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+    
+}
+
+.links a:hover{
+    color: #ffb7aa;
+}
+
+.links a:active{
+    color: #ffb7aa;
+}
+
+.mataikona {
+    width: 150px;
+    margin-left: 21px;
+    margin-top: 120px;
+    border: 5px solid white;
+}
+
+.bodyblock {
+    background-color: #ffe2a9;
+    height: 720px;
+    width: 600px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.bodyheadhome {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+
+.paragraphhome {
+    
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.p2home {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.lighthouse2 {
+    margin-top: 50px;
+    margin-left: 40px;
+    border: 10px solid white;
+    height: 170px;
+    width: 250px;
+    float: left;
+}
+
+.mataikona2 {
+    margin-bottom: 50px;
+    margin-right: 40px;
+    margin-top: 20px;
+    border: 10px solid white;
+    height: 170px;
+    width: 250px;
+    float: right;
+}
+
+.bodyheadabout {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+
+.paragraphabout {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.p2about {
+  color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+    }
+
+.p3about {
+  color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+    }
+
+.p4about {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic; 
+}
+
+.wave2 {
+    height: 250px;
+    width: 280px;
+    margin-bottom: 150px;
+    margin-left: 200px;
+}
+
+.p5about {
+    
+     color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.paragraphcp {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 17px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;  
+    
+}
+
+.lightandrock {
+    width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: solid 10px white;
+    float: left;
+}
+
+.lagoon {
+    width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-right: 40px;
+    border: solid 10px white;
+    float: right; 
+}
+
+.rockface {
+       width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: solid 10px white;
+    float: left; 
+}
+
+.ocean {
+      width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-right: 40px;
+    border: solid 10px white;
+    float: right; 
+}
+
+.beach1 {
+    width: 210px;
+    height: 140px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border: solid 10px white;
+    float: left;   
+}
+
+.beach2 {
+      width: 210px;
+    height: 140px;
+    margin-top: 20px;
+    margin-right: 40px;
+    border: solid 10px white;
+    float: right; 
+    
+}
+
+.headerimage1 {
+      height: 80px;
+    width: 400px;
+    float: left;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 20px;
+    border: 10px solid white;
+    
+}
+
+.beach3 {
+    width: 210px;
+    height: 140px;
+    margin-top: 20px;
+    margin-left: 185px;
+    margin-right: 185px;
+    border: solid 10px white;
+    float: left;   
+}
+
+
+
+
+
 
 
 
