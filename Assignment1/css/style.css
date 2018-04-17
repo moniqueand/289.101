@@ -131,10 +131,10 @@
 .paragraph {
     
     color: white;
-    font-family: 'Indie Flower', cursive;
     font-size: 20px;
     margin-left: 40px;
     margin-top: 30px;
+    font-family: 'Indie Flower', cursive;
     font-style: italic;
 }
 
@@ -172,7 +172,6 @@
 .wave2 {
     height: 250px;
     width: 280px;
-    margin-bottom: 150px;
     margin-left: 200px;
 }
 
