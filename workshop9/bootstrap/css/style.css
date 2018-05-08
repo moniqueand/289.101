@@ -1,0 +1,49 @@
+.blue{
+    background-color: skyblue;
+    height: 50px;
+}
+.green {
+    background-color: palegreen;
+    height: 150px;
+}
+
+.orange {
+    background-color: peachpuff;
+    height: 100px;
+}
+
+.grey {
+    
+    background-color: lightgray;
+    height: 50px;
+}
+
+@media (min-width:576px) {
+    body{
+        background-color: red;
+    }
+}
+
+@media (min-width:768px) {
+    body{
+        background-color: green;
+        
+    }
+    
+    .grey{
+        height: 100px;
+    }
+}
+
+
+@media (min-width:922px) {
+    body{
+        background-color: orange;
+        
+    }
+    
+    .grey{
+        height: 300px;
+    }
+}
+
